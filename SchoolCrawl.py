@@ -3,7 +3,7 @@
 Created on Sat May  4 12:46:17 2024
 
 @author: lovro
-v0.1
+v0.2.0
 """
 
 import requests
